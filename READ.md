@@ -15,6 +15,9 @@ https://x89r5q.csb.app/
 3. You will get a “correct”, if you or correct.
 4. You will get a “wrong”, if you are wrong.
 
+## Discription
+Guess who you think has a more net worth!
+
 ## Struggles
 
 I struggled with getting the images to generate randomly. When I first started I was generating the same pictures back to back.
