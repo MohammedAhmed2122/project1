@@ -22,7 +22,7 @@ Guess who you think has a more net worth!
 
 I struggled with getting the images to generate randomly. When I first started I was generating the same pictures back to back.
 
-## fix
+## What to add
 
 1. I still have to add a reset button.
 2. add lives, you get 2 chances, when you get 2 wrong, the game reset.
