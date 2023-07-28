@@ -22,4 +22,5 @@ I struggled with getting the images to generate randomly. When I first started I
 ## fix
 
 I still have to add a reset button.
+The score does not reset.
 
