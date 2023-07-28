@@ -18,3 +18,8 @@ https://x89r5q.csb.app/
 ## Struggles
 
 I struggled with getting the images to generate randomly. When I first started I was generating the same pictures back to back.
+
+## fix
+
+I still have to add a reset button.
+
