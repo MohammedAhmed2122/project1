@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Guess Who is Richer</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <div class="game">
+      <div class="title_game">Guess Who is Richer</div>
+      <div class="game_description">
+        Pick the soccer player who is worth more.
+      </div>
+
+      <div class="container">
+        <div class="card" id="card1">
+          <img src="img1.png" />
+          <p class="name">Cristiano Ronaldo</p>
+          <div class="worth"></div>
+        </div>
+
+        <div class="card" id="card2">
+          <img src="img2.png" />
+          <p class="name">Kylian Mbappe</p>
+          <div class="worth"></div>
+        </div>
+      </div>
+      <p id="result"></p>
+      <div class="buttons">
+        <button class="submit_btn">Submit</button>
+
+        <button onclick="generateNewCards()">New Cards</button>
+      </div>
+      <script src="script.js"></script>
+    </div>
+  </body>
+</html>
