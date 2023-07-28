@@ -24,7 +24,8 @@ I struggled with getting the images to generate randomly. When I first started I
 
 ## fix
 
-I still have to add a reset button.
-add lives, you get 2 chances, when you get 2 wrong, the game reset.
-The score does not reset.
+1. I still have to add a reset button.
+2. add lives, you get 2 chances, when you get 2 wrong, the game reset.
+3. The score does not reset.
+4. add a high score.
 
